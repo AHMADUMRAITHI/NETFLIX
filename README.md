@@ -5,5 +5,4 @@ NAMA  : AHMAD UMRAITHI
 EMAIL : umraithi769@gmail.com
 JURUSAN TEKNIK INFORMATIKA
 UNIVERSITAS MALIKUSSALEH
-![Foto Diri](https://github.com/user-attachments/assets/ad1f55ff-134c-42cd-b9b0-927bb7aaa7f8)
 
